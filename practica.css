@@ -16,3 +16,9 @@ div h2, div h3 {
 * {
     font-size: 40px;
 }
+/* este es un comentario */
+.borde {
+    border-style:dotted;
+    border-radius: 5px;
+    border-color: aqua;
+}
