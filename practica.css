@@ -10,3 +10,9 @@ p.nada {
 div p {
     color: blue;
 }
+div h2, div h3 {
+    color: rosybrown;
+}
+* {
+    font-size: 40px;
+}
