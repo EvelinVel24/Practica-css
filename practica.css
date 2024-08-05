@@ -22,3 +22,6 @@ div h2, div h3 {
     border-radius: 5px;
     border-color: aqua;
 }
+#fondo {
+    background-color: chartreuse;
+}
