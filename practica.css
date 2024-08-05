@@ -24,4 +24,7 @@ div h2, div h3 {
 }
 #fondo {
     background-color: chartreuse;
+    background-image: url("https://www.radioactiva.cl/wp-content/uploads/2023/09/Dia-del-Cine-768x432.webp");
+    height: 400px;
+    background-size: 800px 900px;
 }
