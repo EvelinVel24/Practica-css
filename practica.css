@@ -55,3 +55,9 @@ a:hover {
 a:active {
     color: yellow;
 }
+
+ul {
+    background-color: burlywood;
+    list-style-type: square;
+    padding-left: 0;
+}
