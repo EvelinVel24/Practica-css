@@ -43,3 +43,15 @@ div h2, div h3 {
 a:link {
     color: blueviolet;
 }
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: yellow;
+}
