@@ -40,3 +40,6 @@ div h2, div h3 {
     text-shadow: 3px 5px 5px aqua;
 }
 
+a:link {
+    color: blueviolet;
+}
